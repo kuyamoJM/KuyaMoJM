@@ -1,4 +1,4 @@
- ###Hi there 👋 I'm Jerome Mark but you can call me JM 
+### Hi there 👋 I'm Jerome Mark but you can call me JM 
   I'm a Software Developer and also a Student
 
 - 🔭 I’m currently studying ...
