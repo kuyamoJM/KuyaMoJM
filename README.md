@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I love playing diffrent sports...
 
 ### Programming language:
-https://www.java.com/  https://www.python.org/
+
