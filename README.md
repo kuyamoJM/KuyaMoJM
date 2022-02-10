@@ -1,5 +1,5 @@
- Hi there 👋 I'm Jerome Mark but you can call me JM 
-I'm a Software Developer and also a Student
+ ###Hi there 👋 I'm Jerome Mark but you can call me JM 
+  I'm a Software Developer and also a Student
 
 - 🔭 I’m currently studying ...
 - 🌱 I’m currently learning diffrent programming language...
