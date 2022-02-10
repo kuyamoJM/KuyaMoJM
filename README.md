@@ -1,4 +1,4 @@
-### Hi there 👋 IM Jerome Mark but you can call me JM 
+### Hi there 👋 I'm Jerome Mark but you can call me JM 
 
 **kuyamoJM/KuyaMoJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
